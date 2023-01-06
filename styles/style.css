@@ -1,0 +1,168 @@
+*{
+    
+    font-family: 'Open Sans', sans-serif;
+}
+
+.btn-con{
+    width: 160px;
+    height: 64px;
+    font-weight: 600;
+    font-size: 20px;
+    border-radius: 5px;
+
+}
+
+/* header */
+header{
+    width: 1600px;
+    height: 808px;
+    background-image: url("../images/banner/banner3.png");
+}
+.head-text{
+    position: absolute;
+    width: 525px;
+    height: 228px;
+    left: 845px;
+    top: 216px;
+    text-align: right;
+    color: aliceblue;
+    
+}
+.head-sub{
+    font-weight: 700;
+    font-size: 65px;
+    margin-bottom: 24px;
+}
+.pra{
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 32px;
+}
+
+/* main section */
+main{
+    max-width: 1140px;
+    margin-left: 210px;
+    margin-top: 150px;
+
+    
+}
+.sections{
+    position: absolute;
+    width: 288px;
+    height: 94px;
+    left: 862px;
+    top: 1178px;
+    
+}
+.my{
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 24px;
+}
+.my-pra{
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 16px;
+}
+main li{
+    list-style: none;
+}
+
+/* My plane section*/
+
+.main-plans{
+    
+}
+.plans{
+    color: blue;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.plans-aria{
+    width: 1141px;
+    height: 202.96px;
+}
+.four-plans{
+    display: flex;
+    justify-content: space-around;
+}
+
+/* baground section*/
+
+.main-sub-img{
+    background-image: url("../images/gradient1.png");
+    width: 1140px;
+    height: 300px;
+
+}
+.awlays{
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 24px;
+    
+}
+.bag-img{
+    width: 459px;
+    height: 182px;
+    padding: 60px;
+    margin: 40px;
+}
+
+/* footer */
+
+footer{
+    width: 1600px;
+    height: 577px;
+    background-color: black;
+    margin-top: 130px;
+    display: flex;
+}
+.end-foot{
+    color: aliceblue;
+    padding: 150px;
+}
+.end-h{
+    font-weight: 700;
+    font-size: 45px;
+    margin-bottom: 16px;
+}
+.end-pra{
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 24px;
+}
+.end-email{
+    margin-bottom: 16px;
+}
+.end-phn{
+    margin-bottom: 32px;
+
+}
+.form{
+    color: aliceblue;
+    padding: 150px;
+}
+.sub{
+    font-weight: 600;
+    font-size: 25px;
+    margin-bottom: 31px;
+}
+.form input{
+    margin-bottom: 30px;
+    border-radius: 5px;
+    padding: 21px 22px;
+    width: 100%;
+}
+input{
+    background-color: black;
+    text-emphasis-color: #FFFFFF;
+}
+.btn-conss{
+    width: 160px;
+    height: 64px;
+    font-weight: 600;
+    font-size: 20px;
+    border-radius: 5px;
+    background-color: #005FAC;
+}
