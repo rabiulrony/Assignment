@@ -1,8 +1,9 @@
 *{
-    
+    margin: 0;
     font-family: 'Open Sans', sans-serif;
 }
 
+/* button */
 .btn-con{
     width: 160px;
     height: 64px;
@@ -12,7 +13,7 @@
 
 }
 
-/* header */
+/* header background image section */
 header{
     width: 1600px;
     height: 808px;
@@ -39,7 +40,7 @@ header{
     margin-bottom: 32px;
 }
 
-/* main section */
+/* maiddle section */
 main{
     max-width: 1140px;
     margin-left: 210px;
@@ -65,9 +66,7 @@ main{
     font-size: 16px;
     margin-bottom: 16px;
 }
-main li{
-    list-style: none;
-}
+
 
 /* My plane section*/
 
@@ -88,7 +87,7 @@ main li{
     justify-content: space-around;
 }
 
-/* baground section*/
+/* gradient section*/
 
 .main-sub-img{
     background-image: url("../images/gradient1.png");
@@ -109,7 +108,7 @@ main li{
     margin: 40px;
 }
 
-/* footer */
+/* footer section*/
 
 footer{
     width: 1600px;
