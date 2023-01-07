@@ -90,7 +90,7 @@ main{
 /* gradient section*/
 
 .main-sub-img{
-    background-image: url("../images/gradient1.png");
+    background-image:linear-gradient(to left, rgba(0, 26, 255, 0), rgb(79, 194, 240)), url("../images/watch.png");
     width: 1140px;
     height: 300px;
 
@@ -99,6 +99,7 @@ main{
     font-weight: 700;
     font-size: 40px;
     margin-bottom: 24px;
+    color: aliceblue;
     
 }
 .bag-img{
